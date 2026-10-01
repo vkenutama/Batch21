@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{8248DD10-5BEA-41B0-AC64-D7A42115805A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 1 - Language Basic", "Day 1 - Language Basic", "{270E136E-7D9E-4E46-8C43-9A9D8745E844}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Syntax", "Day 1 - Language Basic\Syntax\Syntax.csproj", "{495AC8DD-B8C3-41B6-8385-90DB981A1B63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,12 @@ Global
 		{8248DD10-5BEA-41B0-AC64-D7A42115805A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8248DD10-5BEA-41B0-AC64-D7A42115805A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8248DD10-5BEA-41B0-AC64-D7A42115805A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{495AC8DD-B8C3-41B6-8385-90DB981A1B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{495AC8DD-B8C3-41B6-8385-90DB981A1B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{495AC8DD-B8C3-41B6-8385-90DB981A1B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{495AC8DD-B8C3-41B6-8385-90DB981A1B63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{495AC8DD-B8C3-41B6-8385-90DB981A1B63} = {270E136E-7D9E-4E46-8C43-9A9D8745E844}
 	EndGlobalSection
 EndGlobal
