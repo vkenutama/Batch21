@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day3Reference", "Day3Refere
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FooBarExercise", "SideQuest\Week1\FooBarExercise\FooBarExercise.csproj", "{26715F17-A4FA-458E-AFCC-1498449A983F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueExercise", "SideQuest\Week1\QueueExercise\QueueExercise.csproj", "{BB35A63B-D236-4AE0-9ABA-22B655F62170}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackExercise", "SideQuest\Week1\StackExercise\StackExercise.csproj", "{FB0F0C62-3A6E-4098-AACC-81F366EA09EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -74,6 +78,14 @@ Global
 		{26715F17-A4FA-458E-AFCC-1498449A983F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26715F17-A4FA-458E-AFCC-1498449A983F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26715F17-A4FA-458E-AFCC-1498449A983F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB35A63B-D236-4AE0-9ABA-22B655F62170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB35A63B-D236-4AE0-9ABA-22B655F62170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB35A63B-D236-4AE0-9ABA-22B655F62170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB35A63B-D236-4AE0-9ABA-22B655F62170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB0F0C62-3A6E-4098-AACC-81F366EA09EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB0F0C62-3A6E-4098-AACC-81F366EA09EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB0F0C62-3A6E-4098-AACC-81F366EA09EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB0F0C62-3A6E-4098-AACC-81F366EA09EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{495AC8DD-B8C3-41B6-8385-90DB981A1B63} = {270E136E-7D9E-4E46-8C43-9A9D8745E844}
