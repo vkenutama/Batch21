@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueExercise", "SideQuest\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackExercise", "SideQuest\Week1\StackExercise\StackExercise.csproj", "{FB0F0C62-3A6E-4098-AACC-81F366EA09EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListExercise", "SideQuest\Week1\LinkedListExercise\LinkedListExercise.csproj", "{43D6EB93-1952-4F96-BA5B-53011B729E21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircularQueueExercise", "SideQuest\Week1\CircularQueueExercise\CircularQueueExercise.csproj", "{350EABE0-6E27-42EA-A62C-AC13D73C587E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -86,6 +90,14 @@ Global
 		{FB0F0C62-3A6E-4098-AACC-81F366EA09EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB0F0C62-3A6E-4098-AACC-81F366EA09EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB0F0C62-3A6E-4098-AACC-81F366EA09EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43D6EB93-1952-4F96-BA5B-53011B729E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D6EB93-1952-4F96-BA5B-53011B729E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D6EB93-1952-4F96-BA5B-53011B729E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D6EB93-1952-4F96-BA5B-53011B729E21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{350EABE0-6E27-42EA-A62C-AC13D73C587E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{350EABE0-6E27-42EA-A62C-AC13D73C587E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{350EABE0-6E27-42EA-A62C-AC13D73C587E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{350EABE0-6E27-42EA-A62C-AC13D73C587E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{495AC8DD-B8C3-41B6-8385-90DB981A1B63} = {270E136E-7D9E-4E46-8C43-9A9D8745E844}
