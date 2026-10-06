@@ -66,10 +66,10 @@ static class Program
 
         testClass[2] = "silver";
 
-        // foreach (var word in testClass)
-        // {
-        //     
-        // }
+        foreach (var word in testClass[..]) 
+        {
+            Console.WriteLine(word);
+        }
 
 
     }
@@ -85,7 +85,10 @@ static class Program
             get => _words[wordNum];
             set => _words[wordNum] = value;
         }
-        
+
+        public string this[Index index] => _words[index];
+        public string[] this[Range range] => _words[range];
+
     }
 
     class Stock
