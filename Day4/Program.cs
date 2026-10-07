@@ -97,6 +97,11 @@ class Program
 
         IEnumerable<Animal> animals = bears;
 
+        object a = new object();
+
+        Console.WriteLine(a.Equals(a));
+        
+
     }
     
     

@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircularQueueExercise", "Si
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4", "Day4\Day4.csproj", "{3D0AF632-3800-4C07-9A0C-8482269C3A32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5", "Day5\Day5.csproj", "{59838C60-6EE3-4179-A32A-BD464D9B17B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -104,6 +106,10 @@ Global
 		{3D0AF632-3800-4C07-9A0C-8482269C3A32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D0AF632-3800-4C07-9A0C-8482269C3A32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D0AF632-3800-4C07-9A0C-8482269C3A32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59838C60-6EE3-4179-A32A-BD464D9B17B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59838C60-6EE3-4179-A32A-BD464D9B17B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59838C60-6EE3-4179-A32A-BD464D9B17B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59838C60-6EE3-4179-A32A-BD464D9B17B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{495AC8DD-B8C3-41B6-8385-90DB981A1B63} = {270E136E-7D9E-4E46-8C43-9A9D8745E844}
