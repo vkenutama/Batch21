@@ -1,0 +1,15 @@
+E:\Formulatrix\Bootcamp\Batch21\Day7\obj\Debug\net8.0\Day7.GeneratedMSBuildEditorConfig.editorconfig
+E:\Formulatrix\Bootcamp\Batch21\Day7\obj\Debug\net8.0\Day7.AssemblyInfoInputs.cache
+E:\Formulatrix\Bootcamp\Batch21\Day7\obj\Debug\net8.0\Day7.AssemblyInfo.cs
+E:\Formulatrix\Bootcamp\Batch21\Day7\obj\Debug\net8.0\Day7.csproj.CoreCompileInputs.cache
+E:\Formulatrix\Bootcamp\Batch21\Day7\obj\Debug\net8.0\Day7.sourcelink.json
+E:\Formulatrix\Bootcamp\Batch21\Day7\bin\Debug\net8.0\Day7.deps.json
+E:\Formulatrix\Bootcamp\Batch21\Day7\bin\Debug\net8.0\Day7.dll
+E:\Formulatrix\Bootcamp\Batch21\Day7\bin\Debug\net8.0\Day7.pdb
+E:\Formulatrix\Bootcamp\Batch21\Day7\obj\Debug\net8.0\Day7.dll
+E:\Formulatrix\Bootcamp\Batch21\Day7\obj\Debug\net8.0\refint\Day7.dll
+E:\Formulatrix\Bootcamp\Batch21\Day7\obj\Debug\net8.0\Day7.pdb
+E:\Formulatrix\Bootcamp\Batch21\Day7\obj\Debug\net8.0\ref\Day7.dll
+E:\Formulatrix\Bootcamp\Batch21\Day7\bin\Debug\net8.0\Day7.exe
+E:\Formulatrix\Bootcamp\Batch21\Day7\bin\Debug\net8.0\Day7.runtimeconfig.json
+E:\Formulatrix\Bootcamp\Batch21\Day7\obj\Debug\net8.0\Day7.genruntimeconfig.cache
