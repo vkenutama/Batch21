@@ -1,0 +1,8 @@
+/* Adjust heading margins in Live Preview and Reading Mode */
+.cm-heading, 
+.markdown-rendered h1, 
+.markdown-rendered h2, 
+.markdown-rendered h3 {
+    margin-top: 1em !important;    /* Reduce space above headings */
+    margin-bottom: 0.25em !important; /* Adjust space below headings */
+}
