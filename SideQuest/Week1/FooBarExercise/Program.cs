@@ -1,7 +1,7 @@
 ﻿void Generate(int num)
 {
     string msg = "";
-    for (int i = 1; i < num; i++)
+    for (int i = 1; i <= num; i++)
     {
         if (i % 3 == 0)
         {
