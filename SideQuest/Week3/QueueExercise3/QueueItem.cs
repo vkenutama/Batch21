@@ -1,6 +1,8 @@
 ﻿namespace QueueExercise3;
 
-public class QueueItem
+class QueueItem
 {
-    
+    public string Value { get; set; }
+    public int Priority { get; set; }
+    public DateTime CreatedAt { get; set; }
 }
